@@ -1,0 +1,7 @@
+.jupyter
+.keras
+.local
+.npm
+.cache
+.ipynb_checkpoints
+.ipython
